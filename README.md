@@ -6,14 +6,16 @@ Hello 👋, I'm not a developer, but I am someone who solves problems using tech
 
 ### Cloud Computing, Automation, & Mobile Development
 
-- **Azure Services & PowerShell**: Competent in deploying, managing, and automating Azure resources and services, enhancing operational efficiency and scalability.
-- **Flutter & Swift**: Functionally capable in cross-platform mobile app development using Flutter and native iOS app development with Swift, creating engaging, high-performance mobile applications.
+- **Azure Services**: Competent in deploying, managing, and automating Azure resources and services, enhancing operational efficiency and scalability. Lots of experience with Azure Functions and Azure Web Apps.
+- **Blazor, Flutter, & Swift**: Functionally capable in cross-platform mobile app development using Flutter and native iOS app development with Swift, creating engaging, high-performance mobile applications.
 - **Firebase**: Experienced in leveraging Firebase for backend services, real-time databases, authentication, and analytics, facilitating rapid mobile and web application development.
 
 ### Application & Identity Architecture
 
 - **.NET**: Have built multiple solutions using .NET Core 3 through .Net 8
 - **Identity Architecture and Strategy**: Expertise in designing comprehensive identity and access management solutions, ensuring secure and scalable access control across applications.
+- **OAuth 2.0 & OpenID Connect**: Deep knowledge OAuth 2.0 and OpenID Connect protocols as well as an unhealthy level of interest and knowledge of Azure AD tokens
+- **Active Directory & Azure AD / Entra ID**: Deep expertise in designing and implementing Active Directory and Azure Active Directory solutions, including hybrid identity and identity synchronization.
 
 ### E-Commerce & Payment Solutions
 
